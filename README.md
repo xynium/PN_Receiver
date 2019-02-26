@@ -10,6 +10,8 @@ BF output is a PWM signal on Port Ext1 pin 3, i use a D amplifier PAM8403, with 
 
 Configuration is made via SSH and via many program one for DDS receive frequencies one for side band, one for gain ...
 Those code are in server dir.
+Compile on redpitaya with gcc -o ProgNme ProgNme.c
+use with ProgNme Param
 
 A more convivial program is to come.
 
