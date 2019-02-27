@@ -15,6 +15,9 @@ Those code are in server dir.
 Compile on redpitaya with gcc -o ProgNme ProgNme.c
 use with ProgNme Param
 
+If one want a fast test load system.bit in RedPitaya and execute cat system.bit > /dev/xdevcfg
+No sound heard until you set gain via TestGain and TestGShift.
+
 A more convivial program is to come.
 
 PSE Give report to FM4PN@laposte.net
